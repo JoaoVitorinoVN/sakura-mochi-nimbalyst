@@ -1,6 +1,7 @@
 {
   "id": "com.sakuramochi.nimbalyst",
   "name": "Sakura Mochi Themes",
+  "version": "0.1.0",
   "description": "Dark glass theme with a near-black base, sakura pink accents, and cool green structure",
   "apiVersion": "1.0",
   "defaultEnabled": true,
