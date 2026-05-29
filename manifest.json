@@ -1,0 +1,38 @@
+{
+  "id": "com.sakuramochi.nimbalyst",
+  "name": "Sakura Mochi Themes",
+  "description": "Dark glass theme with a near-black base, sakura pink accents, and cool green structure",
+  "apiVersion": "1.0",
+  "defaultEnabled": true,
+  "contributions": {
+    "themes": [
+      {
+        "id": "sakura-mochi-theme",
+        "name": "Sakura Mochi",
+        "isDark": true,
+        "colors": {
+          "bg": "#0b0d11",
+          "bg-secondary": "#14161c",
+          "bg-tertiary": "#1d2223",
+          "bg-hover": "rgba(242, 56, 136, 0.08)",
+          "bg-selected": "rgba(242, 56, 136, 0.22)",
+          "bg-active": "#2a1a27",
+          "text": "#f0b7ca",
+          "text-muted": "#d8c6cc",
+          "text-faint": "#8bb0a4",
+          "text-disabled": "#4a5d46",
+          "border": "rgba(240, 183, 202, 0.22)",
+          "border-focus": "#f23888",
+          "primary": "#f23888",
+          "primary-hover": "#ff6aa7",
+          "link": "#67dd82",
+          "link-hover": "#8bf0a1",
+          "success": "#5aa15d",
+          "warning": "#d7be96",
+          "error": "#f23888",
+          "info": "#6f9485"
+        }
+      }
+    ]
+  }
+}
